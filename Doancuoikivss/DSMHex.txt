@@ -1,0 +1,7 @@
+CTDL,Cau Truc Du Lieu,2,2,
+TCC1,Toan Cao Cap1,2,0,
+TCC2,Toan Cao Cap2,2,0,
+TK3D,Thiet Ke 3D,2,0,
+TKDH,Thiet Ke Do Hoa,1,1,
+TRR,Toan Roi Rac,2,0,
+XSTK,Xac Suat Thong Ke,1,1,

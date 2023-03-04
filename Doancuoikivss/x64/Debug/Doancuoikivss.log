@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(219,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(255,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(379,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(784,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(983,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(942,8): warning C4101: 'b': unreferenced local variable
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(1227,11): warning C4101: 'sv': unreferenced local variable
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(1609,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(1642,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(1653,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(1693,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(1737,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(1970,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(2002,11): warning C4101: 'sv': unreferenced local variable
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\Source.cpp(2003,9): warning C4101: 'h': unreferenced local variable
+D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\Doancuoikivss\mylib.h(21): warning C4172: returning address of local variable or temporary: S
+  Doancuoikivss.vcxproj -> D:\Downloads\Subiect_2021\hki 2\ctdl gt\Doancuoikivss\x64\Debug\Doancuoikivss.exe
